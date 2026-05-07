@@ -4,3 +4,15 @@
 /deb_dist/
 /dist/
 /helloworld.egg-info/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
